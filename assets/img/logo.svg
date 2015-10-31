@@ -13,19 +13,10 @@
    height="238.25613"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="logo.svg">
   <defs
      id="defs4">
-    <filter
-       inkscape:collect="always"
-       id="filter4183"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.38741093"
-         id="feGaussianBlur4185" />
-    </filter>
     <filter
        inkscape:collect="always"
        id="filter4272"
@@ -58,10 +49,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="958"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1362"
+     inkscape:window-height="723"
+     inkscape:window-x="4"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="5"
      fit-margin-left="5"
@@ -94,17 +85,22 @@
        transform="matrix(2.0036668,0,0,1.9952738,-138.98662,-130.31007)" />
     <text
        xml:space="preserve"
-       style="font-size:79.25274658px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff4c4c;fill-opacity:1;stroke:#ff4c4c;stroke-width:2.99919868;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Gill Sans MT;-inkscape-font-specification:Gill Sans MT"
-       x="149.08424"
-       y="507.92798"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:79.25274658px;line-height:125%;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff4c4c;fill-opacity:1;stroke:#ff4c4c;stroke-width:2.99919868;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="201.14981"
+       y="466.98505"
        id="text2985"
        sodipodi:linespacing="125%"
-       transform="matrix(1.0020635,0.00863243,-0.00866874,0.99786605,0,0)"><tspan
+       transform="matrix(1.0020635,0.00863243,-0.00866874,0.99786607,0,0)"><tspan
          sodipodi:role="line"
          id="tspan2987"
-         x="149.08424"
-         y="507.92798"
-         style="fill:#ff4c4c;fill-opacity:1;stroke:#ff4c4c;stroke-width:2.99919868;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">Jekyll Video</tspan></text>
+         x="201.14981"
+         y="466.98505"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Osaka;-inkscape-font-specification:Osaka;fill:#ff4c4c;fill-opacity:1;stroke:#ff4c4c;stroke-width:2.99919868;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Marco Lopes</tspan><tspan
+         sodipodi:role="line"
+         x="201.14981"
+         y="516.98505"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Osaka;-inkscape-font-specification:Osaka;fill:#ff4c4c;fill-opacity:1;stroke:#ff4c4c;stroke-width:2.99919868;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan4334">                   TV</tspan></text>
     <rect
        style="fill:#ff7777;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter4276)"
        id="rect4206"
